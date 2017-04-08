@@ -14,14 +14,4 @@
         android:layout_height="wrap_content">
 
     </ListView>
-    <!--<TextView
-        android:id="@+id/tvLogin"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="left"/>
-    <TextView
-        android:id="@+id/tvUrl"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="right"/>-->
 </RelativeLayout>
